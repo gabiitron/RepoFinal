@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Background
+  - Platform
+  - enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background Palette
+    uniqueID: 3864029793
+    locked: 0
+  - name: Decor Palette
+    uniqueID: 940634847
+    locked: 0
+  - name: bacvkground fill
+    uniqueID: 2612987613
+    locked: 0
+  - name: player
+    uniqueID: 192712379
+    locked: 0
+  - name: water
+    uniqueID: 308769867
+    locked: 0
+  - name: Platform Palette
+    uniqueID: 3699870105
+    locked: 0
+  - name: silly
+    uniqueID: 179485791
+    locked: 0
